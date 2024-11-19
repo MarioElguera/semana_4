@@ -1,0 +1,26 @@
+section {
+    height: 100hv;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    margin: 100px 10px;
+}
+
+img {
+    display: inline;
+    height: 100px;
+    width: 100px;
+}
+
+.img2 {
+    display: inline;
+    height: 100px;
+    width: 300px;
+}
+
+#divAudio {
+    text-align: center;
+}
