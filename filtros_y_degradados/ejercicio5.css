@@ -1,0 +1,43 @@
+.container{
+    background-color: green;
+}
+
+.img1 {
+    mix-blend-mode: normal;
+}
+
+.img2 {
+    mix-blend-mode: multiply;
+}
+
+.img3 {
+    mix-blend-mode: screen;
+}
+
+.img4 {
+    mix-blend-mode: overlay;
+}
+
+.img5 {
+    mix-blend-mode: darken;
+}
+
+.img6 {
+    mix-blend-mode: lighten;
+}
+
+.img7 {
+    mix-blend-mode: color-dodge;
+}
+
+.img8 {
+    mix-blend-mode: color-burn;
+}
+
+.img9 {
+    mix-blend-mode: hard-light;
+}
+
+.img8 {
+    mix-blend-mode: multiply;
+}

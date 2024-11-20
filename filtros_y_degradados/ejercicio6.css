@@ -1,0 +1,34 @@
+.container {
+    text-align: -webkit-center;
+}
+
+div {
+    margin: 80px;
+}
+
+.div1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+    transform: rotate(67deg) scale(1.5);
+    transform-origin: left;
+}
+
+.div2 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+
+    transform: rotate(45deg) scale(1.5);
+    transform-origin: center;
+}
+
+.div3 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+
+    transform: rotate(23deg) scale(1.5);
+    transform-origin: right;
+}
