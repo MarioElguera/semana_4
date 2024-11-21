@@ -1,4 +1,9 @@
-div {
+body {
+    display: flex;
+    position: relative;
+}
+
+section div {
     height: 100px;
     width: 300px;
     margin: 20px;
@@ -6,7 +11,7 @@ div {
 }
 
 .div1 {
-    background: linear-gradient(to right, red, orange);
+    background: linear-gradient(red, orange);
 }
 
 .div2 {
@@ -14,5 +19,13 @@ div {
 }
 
 .div3 {
-    background: linear-gradient(to left, grey, pink);
+    background: linear-gradient(to top left, grey, pink);
+}
+
+.container {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
 }
